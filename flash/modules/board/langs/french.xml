@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<items>
+	<item key="_name_"><![CDATA[French]]></item>
+	<item key="txtBackColor"><![CDATA[Couleur précèdente]]></item>
+	<item key="txtFontSize"><![CDATA[Taille de la police]]></item>
+	<item key="txtVertexNumber"><![CDATA[Nombre de vertex]]></item>
+	<item key="txtSize"><![CDATA[Taille]]></item>
+	<item key="txtStroke"><![CDATA[Mouvement]]></item>
+	<item key="txtFill"><![CDATA[Remplir]]></item>
+	<item key="txtBack"><![CDATA[Retour]]></item>
+	<item key="txtYes"><![CDATA[Oui]]></item>
+	<item key="txtNo"><![CDATA[Non]]></item>
+	<item key="txtDefaultText"><![CDATA[un peu de texte]]></item>
+	<item key="txtDescription"><![CDATA[Description]]></item>
+	<item key="txtSexM"><![CDATA[M]]></item>
+	<item key="txtSexF"><![CDATA[F]]></item>
+	<item key="txtRoomCaption"><![CDATA[#title# (#M# M, #F# F.)]]></item>
+	<item key="txtUserCaption"><![CDATA[#nick# #age#, #sex#.]]></item>
+
+	<item key="blockUsers"><![CDATA[Utilsateurs dans la #room#]]></item>
+	<item key="blockUsersEmpty"><![CDATA[Pas d'utilisateur]]></item>
+	<item key="blockRooms"><![CDATA[Tous les conseils (#new#)]]></item>
+
+	<item key="msgConnectionError"><![CDATA[CONNECTION ERREUR]]></item>
+	<item key="msgConnecting"><![CDATA[CONNECTION]]></item>
+	<item key="msgLoading"><![CDATA[CHARGEMENT]]></item>
+	<item key="msgUserAuthenticationFailure"><![CDATA[Erreur d'identification]]></item>
+	<item key="msgClearBoard"><![CDATA[Êtes vous sur de vouloir effacer ce dessin?]]></item>
+	<item key="msgErrorCreatingBoard"><![CDATA[Erreur de création de la salle.]]></item>
+	<item key="msgErrorGD"><![CDATA[Erreur! GD Library n'est pas installer.]]></item>
+	<item key="msgErrorFile"><![CDATA[Erreur de création du fichier.]]></item>
+	<item key="msgErrorSave"><![CDATA[Erreur de sauvegarde du dessin.]]></item>
+	<item key="msgErrorDB"><![CDATA[Erreur de la base de données.]]></item>
+	<item key="msgRoomRemoveConfirm"><![CDATA[Etes vous sur de vouloir supprimer cette salle?]]></item>
+	<item key="msgErrorCreatingRoom"><![CDATA[Erreur de création de salle]]></item>
+	<item key="msgWrongRoomPassword"><![CDATA[Mauvais mot de passe]]></item>	
+
+	<item key="btnNewroom"><![CDATA[Nouveau]]></item>
+	<item key="btnApply"><![CDATA[Appliquer]]></item>
+	<item key="btnCreate"><![CDATA[Creer]]></item>
+	<item key="btnSave"><![CDATA[Sauvegarder]]></item>
+	<item key="btnDelete"><![CDATA[Supprimer]]></item>
+	<item key="btnEnter"><![CDATA[Entrer]]></item>
+	<item key="btnOk"><![CDATA[OK]]></item>
+	<item key="btnCancel"><![CDATA[Annuler]]></item>
+	<item key="btnTest"><![CDATA[Test]]></item>
+
+	<item key="dlgConfirm"><![CDATA[Confirmation]]></item>
+	<item key="dlgAlert"><![CDATA[Alert]]></item>
+	<item key="dlgRoomNew"><![CDATA[Nouvelle salle]]></item>
+	<item key="dlgRoomEdit"><![CDATA[Editer salle]]></item>
+	<item key="dlgRoomPrivate"><![CDATA[Salle privée]]></item>
+	<item key="dlgRoomPrivateTitle"><![CDATA[Cette salle est protégée par mot de passe]]></item>
+	<item key="dlgRoomTitle"><![CDATA[Nom:]]></item>
+	<item key="dlgRoomType"><![CDATA[Type:]]></item>
+	<item key="dlgRoomTypePublic"><![CDATA[publique]]></item>
+	<item key="dlgRoomTypePass"><![CDATA[protégé par un mot de passe ]]></item>
+	<item key="dlgRoomPass"><![CDATA[Mot de passe:]]></item>
+	<item key="dlgRoomDesc"><![CDATA[Description:]]></item>
+	<item key="dlgSettings"><![CDATA[Paramètres]]></item>
+	<item key="dlgGeneral"><![CDATA[General]]></item>
+	<item key="dlgSound"><![CDATA[Son]]></item>
+	<item key="dlgSkins"><![CDATA[Skins]]></item>
+	<item key="dlgLanguage"><![CDATA[Language:]]></item>
+	<item key="dlgEnable"><![CDATA[Activer]]></item>
+	<item key="dlgVolume"><![CDATA[Volume du son:]]></item>
+	<item key="dlgVolumeMute"><![CDATA[Couper le son:]]></item>
+
+	<item key="toolPencil"><![CDATA[Crayon]]></item>
+	<item key="toolRectangle"><![CDATA[Rectangle]]></item>
+	<item key="toolPolygon"><![CDATA[polygone]]></item>
+	<item key="toolLine"><![CDATA[Ligne]]></item>
+	<item key="toolCircle"><![CDATA[Rond]]></item>
+	<item key="toolStar"><![CDATA[Etoile]]></item>
+	<item key="toolCurve"><![CDATA[courbe]]></item>
+	<item key="toolNGon"><![CDATA[Polygone régulier]]></item>
+	<item key="toolText"><![CDATA[Texte]]></item>
+
+	<item key="hintClose"><![CDATA[Fermer]]></item>
+	<item key="hintRoomEnter"><![CDATA[Entrer dans la salle]]></item>
+	<item key="hintRoomExit"><![CDATA[Sortir de la salle]]></item>
+	<item key="hintRoomEdit"><![CDATA[Editer la salle]></item>
+	<item key="hintUserSelect"><![CDATA[Voir le profil de #user#]]></item>
+	<item key="hintVolume"><![CDATA[Volume]]></item>
+	<item key="hintBlockMin"><![CDATA[Réduire le bloc]]></item>
+	<item key="hintBlockMax"><![CDATA[Aggrandir el bloc]]></item>
+	<item key="hintTabActivate"><![CDATA[Activer]]></item>
+	<item key="hintTabExtra"><![CDATA[Voir plus de tags]]></item>
+	<item key="hintPencil"><![CDATA[Crayon]]></item>
+	<item key="hintRectangle"><![CDATA[Rectangle]]></item>
+	<item key="hintPolygon"><![CDATA[Polygone]]></item>
+	<item key="hintLine"><![CDATA[Ligne]]></item>
+	<item key="hintCircle"><![CDATA[Rond]]></item>
+	<item key="hintStar"><![CDATA[Etoile]]></item>
+	<item key="hintCurve"><![CDATA[courbe]]></item>
+	<item key="hintNGon"><![CDATA[Polygone régulier]]></item>
+	<item key="hintText"><![CDATA[Texte]]></item>
+	<item key="hintTransmit"><![CDATA[Transfert des modifications]]></item>
+	<item key="hintSave"><![CDATA[Sauver]]></item>
+	<item key="hintUndo"><![CDATA[défaire]]></item>
+	<item key="hintRedo"><![CDATA[Refaire]]></item>
+	<item key="hintClear"><![CDATA[Effacer tout]]></item>
+	<item key="hintSettings"><![CDATA[Paramètres]]></item>    
+</items>

@@ -1,0 +1,1 @@
+French Translation I did in 2009 and made especially for the previous (old) coolonWeb version (ver 4.0). Compatible only with BoonEx Dolphin 7.0.*

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<items>
+	<item key="_name_"><![CDATA[Français]]></item>
+    <item key="txtAuthor"><![CDATA[Par #user#]]></item>
+    <item key="txtViews"><![CDATA[Vu: #views#]]></item>
+	
+    <item key="msgConnectionError"><![CDATA[Erreur de connection]]></item>
+	<item key="msgLoading"><![CDATA[Chargement]]></item>
+	<item key="msgProcessing"><![CDATA[ENCODAGE]]></item>
+	<item key="msgReconnect"><![CDATA[Erreur de connection. Cliquer sur ok pour vous reconnectez.]]></item>
+    <item key="msgAuthorizingUserError"><![CDATA[Identifiant ou mot de passe incorrect]]></item>
+    <item key="msgErrorScreenshot"><![CDATA[Erreur de paramètrage pour la nouvelles capture d'écran]]></item>
+    <item key="msgFileNotFound"><![CDATA[Erreur! Fichier non trouvé.]]></item>
+    <item key="msgFileNotProcessed"><![CDATA[Video est en cours d'encodage.]]></item>
+    <item key="msgFileNotApproved"><![CDATA[Video est approuvée.]]></item>
+    <item key="msgRemoveFiles"><![CDATA[Etes vous sur de vouloir supprimer?]]></item>
+
+    <item key="btnCancel"><![CDATA[Annuler]]></item>
+    <item key="btnOk"><![CDATA[OK]]></item>
+    <item key="btnBrowse"><![CDATA[Parcourir]]></item>
+    <item key="btnSave"><![CDATA[Enregistrer]]></item>
+	<item key="btnReplay"><![CDATA[RELIRE]]></item>
+	<item key="btnPreview"><![CDATA[APPERCU]]></item>
+	<item key="btnRecord"><![CDATA[RE-ENREGISTRER]]></item>
+
+    <item key="dlgConfirm"><![CDATA[Confirmer]]></item>
+    <item key="dlgAlert"><![CDATA[Alert]]></item>
+	
+    <item key="hintPlay"><![CDATA[Lecture]]></item>
+    <item key="hintPause"><![CDATA[Pause]]></item>
+	<item key="hintPrevious"><![CDATA[Precedent]]></item>
+    <item key="hintNext"><![CDATA[Suivant]]></item>
+    <item key="hintRemove"><![CDATA[Supprimer]]></item>
+	<item key="hintFullScreen"><![CDATA[Plein écran]]></item>
+	<item key="hintFullScreenExit"><![CDATA[Quitter le mode plein ecran]]></item>
+	<item key="hintScreen"><![CDATA[En faire la photo de presentation]]></item>
+	<item key="hintVolume"><![CDATA[Volume]]></item>
+	<item key="hintSave"><![CDATA[Télécharger]]></item>
+	<item key="hintReplay"><![CDATA[Relire]]></item>
+	<item key="hintRecord"><![CDATA[enregistrer]]></item>
+	<item key="hintStop"><![CDATA[Stop]]></item>
+	<item key="hintMicrophone"><![CDATA[Micro]]></item>
+</items>

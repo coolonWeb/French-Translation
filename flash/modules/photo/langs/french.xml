@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<items>
+	<item key="_name_"><![CDATA[Français]]></item>
+	<item key="txtNoCamera"><![CDATA[PAS DE CAMERA]]></item>
+
+    <item key="msgConnectionError"><![CDATA[ERREUR DE CONNECTION]]></item>
+	<item key="msgLoading"><![CDATA[CHARGEMENT]]></item>
+    <item key="msgAuthorizingUserError"><![CDATA[Pseudo ou mot de passe faut]]></item>
+
+    <item key="btnOk"><![CDATA[OK]]></item>
+    <item key="btnRemove"><![CDATA[SUPPRIMER]]></item>
+    <item key="btnScreenshot"><![CDATA[CAPTURE]]></item>
+
+    <item key="dlgAlert"><![CDATA[ALERTE]]></item>
+	
+    <item key="hintRemove"><![CDATA[SUPPRIMER]]></item>
+	<item key="hintScreen"><![CDATA[EN FAIRE L'IMAGE PRINCIPALE]]></item>
+</items>
