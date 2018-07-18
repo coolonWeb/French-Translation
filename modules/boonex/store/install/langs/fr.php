@@ -1,0 +1,215 @@
+<?
+/***************************************************************************
+*                            Dolphin Smart Community Builder
+*                              -------------------
+*     begin                : Mon Mar 23 2006
+*     copyright            : (C) 2007 BoonEx Group
+*     website              : http://www.boonex.com
+* This file is part of Dolphin - Smart Community Builder
+*
+* Dolphin is free software; you can redistribute it and/or modify it under
+* the terms of the GNU General Public License as published by the
+* Free Software Foundation; either version 2 of the
+* License, or  any later version.
+*
+* Dolphin is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+* without even the implied warranty of  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+* See the GNU General Public License for more details.
+* You should have received a copy of the GNU General Public License along with Dolphin,
+* see license.txt file; if not, write to marketing@boonex.com
+***************************************************************************/
+
+$sLangCategory = 'BooneEx Store';
+
+$aLangContent = array(
+
+    '_sbs_txt_title_bx_store' => 'Boutique',
+    '_bx_store' => 'Boutique',
+    '_bx_store_admin' => 'Admin',
+    '_bx_store_add' => 'ajouter',
+    '_bx_store_wall_added_new' => 'a ajouté un nouveau',
+    '_bx_store_wall_object' => 'produit',    
+    '_bx_store_for_group' => 'pour %s',
+    '_bx_store_buy' => 'Acheter',
+    '_bx_store_download' => 'Télécharger',
+    '_bx_store_products_single' => 'produit',
+    '_bx_store_products_plural' => 'produits',
+    '_bx_store_product_file_hidden' => 'Masqué',
+    '_bx_store_product_file_visible' => 'Visible',
+    '_bx_store_free_product' => 'Gratuit',
+    '_bx_store_loading' => 'Chargement...',
+
+    '_bx_store_spy_post' => '<a href="{profile_link}">{profile_nick}</a> a ajouté un nouveau produit <a href="{entry_url}">{entry_title}</a>',
+    '_bx_store_spy_post_change' => '<a href="{profile_link}">{profile_nick}</a> a changé un produit <a href="{entry_url}">{entry_title}</a>',
+    '_bx_store_spy_rate' => '<a href="{profile_link}">{profile_nick}</a> a évalué un produit <a href="{entry_url}">{entry_title}</a>',
+    '_bx_store_spy_comment' => '<a href="{profile_link}">{profile_nick}</a> a commenté un produit <a href="{entry_url}">{entry_title}</a>',
+
+    '_bx_store_sbs_change' => 'l\'information a été mise à jour',
+    '_bx_store_sbs_comment' => 'un nouveau commentaire est arrivé',
+    '_bx_store_sbs_rate' => 'l\'évaluation a été mise à jour',
+
+    '_bx_store_tab_featured' => 'Mis en vedette',
+    '_bx_store_tab_recent' => 'Récent',
+    '_bx_store_tab_top' => 'Top',
+    '_bx_store_tab_popular' => 'Populaire',
+    '_bx_store_tab_free' => 'Gratuit',
+
+    '_bx_store_block_submenu_main' => 'Principal',
+    '_bx_store_block_submenu_add_product' => 'Ajouter',
+    '_bx_store_block_submenu_manage_products' => 'Gérer',
+    '_bx_store_block_submenu_pending_products' => 'En attente d\approbation',
+
+    '_bx_store_block_actions' => 'Actions',
+    '_bx_store_block_rate' => 'Evaluer',
+    '_bx_store_block_items' => 'Articles',
+    '_bx_store_block_info' => 'Info',
+    '_bx_store_block_desc' => 'Description',
+    '_bx_store_block_photo' => 'Screenshots',
+    '_bx_store_block_video' => 'Screencasts',
+    '_bx_store_block_comments' => 'Commentaires',
+    '_bx_store_block_latest_featured_product' => 'Dernier produit mis en vedette',
+    '_bx_store_block_recent' => 'Produits publics récents',
+    '_bx_store_block_administration_owner' => 'Administration',
+    '_bx_store_block_users_products' => 'Produits de l\'utilisateur',
+    '_bx_store_block_my_products' => 'Mes produits',
+    '_bx_store_block_homepage' => 'Boutique publique',
+
+    '_bx_store_caption_add' => 'Ajouter un produit',
+    '_bx_store_cpation_share_product' => 'Partager un produit',
+    '_bx_store_caption_admin_actions' => 'Liens',
+    '_bx_store_caption_pending_approval' => 'En attente d\'approbation des produits', 
+
+    '_bx_store_menu_root' => 'Boutique',
+    '_bx_store_menu_main' => 'Accueil Boutique',
+    '_bx_store_menu_recent' => 'Récent',
+    '_bx_store_menu_top_rated' => 'Les mieux notés',
+    '_bx_store_menu_popular' => 'Populaire',
+    '_bx_store_menu_featured' => 'En vedette',
+    '_bx_store_menu_free_products' => 'Gratuit',
+    '_bx_store_menu_tags' => 'Tags',
+    '_bx_store_menu_categories' => 'Catégories',
+    '_bx_store_menu_calendar' => 'Calendrier',
+    '_bx_store_menu_search' => 'Recherche',
+    '_bx_store_menu_my_products_profile' => 'Boutique',
+    '_bx_store_menu_view_product' => 'Principal',
+    '_bx_store_menu_view_forum' => 'Forum',
+    '_bx_store_menu_view_comments' => 'Commentaires',
+    '_bx_store_menu_view_photos' => 'Screenshots',
+    '_bx_store_menu_view_videos' => 'Screencasts',
+
+    '_bx_store_menu_admin_pending_approval' => 'En attente dapprobation',
+    '_bx_store_menu_admin_entries' => 'Produits Admin',
+    '_bx_store_menu_admin_add_entry' => 'Ajouter un produit',
+    '_bx_store_menu_admin_settings' => 'Paramètres',
+    
+    '_bx_store_page_title_home' => 'Accueil Boutique',
+    '_bx_store_page_title_calendar' => 'Calendrier de la boutique ',
+    '_bx_store_page_title_comments' => 'Commentaires',
+    '_bx_store_page_title_photos' => 'Screenshots',
+    '_bx_store_page_title_videos' => 'Screencasts',
+    '_bx_store_page_title_my_store' => 'Ma boutique',
+    '_bx_store_page_title_search' => 'Recherche dans la boutique',
+    '_bx_store_page_title_add' => 'Ajouter un produit', 
+    '_bx_store_page_title_edit' => 'Editer un produit',
+    '_bx_store_page_title_administration' => 'Administration Boutique',
+    '_bx_store_page_title_browse' => 'Parcourir la boutique',
+    '_bx_store_page_title_pending_approval' => 'En attente d\'approbation des produits',
+    '_bx_store_page_title_search_results' => 'Résultats de la recherche dans boutique',
+    '_bx_store_page_title_browse_by_author' => '\'s Boutique',
+    '_bx_store_page_title_admin_products' => 'Produits Admin',
+    '_bx_store_page_title_browse_by_category' => 'Parcourir la boutique par catégorie: ',
+    '_bx_store_page_title_browse_by_tag' => 'Parcourir la boutique par tag: ',
+    '_bx_store_page_title_browse_recent' => 'Produits récents',
+    '_bx_store_page_title_browse_top_rated' => 'Produits les mieux notés',
+    '_bx_store_page_title_browse_popular' => 'Produits populaires',
+    '_bx_store_page_title_browse_featured' => 'Produits mis en vedette',
+    '_bx_store_page_title_browse_free_products' => 'Produits gratuits',
+    '_bx_store_page_title_browse_by_day' => 'Parcourir produits par jour: ',
+    '_bx_store_page_title_tags' => 'Store Tags',
+    '_bx_store_page_title_categories' => 'Store Categories',
+    '_bx_store_page_title_broadcast' => 'Envoyer un message diffusé à tous les clients de ce produit',
+
+    '_bx_store_msg_pending_approval' => 'ce produit est en attente d\'approbation, veuillez attendre jusqu\'à ce qu\il ait été activé',
+    '_bx_store_msg_product_was_deleted' => 'Le produit a été supprimé',
+    '_bx_store_msg_removed_from_featured' => 'Le produit a été retiré de vedette',
+    '_bx_store_msg_added_to_featured' => 'Le produit a été ajouté en vedette',
+    '_bx_store_msg_photo_is_pending_approval' => 'La photo est en attente d\'approbation',
+    '_bx_store_msg_you_have_pending_approval_products' => 'Vous avez <a href="%s">%d produits en attente d\'approbation</a>',
+    '_bx_store_msg_you_have_no_products' => 'Vous n\'avez pas aucun product. <a href="%s">Cliquer ici</a> pour en ajouter un.',
+    '_bx_store_msg_you_have_some_products' => 'Vous avez <a href="%s">%d produit(s)</a>. <a href="%s">Cliquer ici</a> pour en ajouter plus.',
+    '_bx_store_msg_broadcast_message_sent' => 'Les messages de diffusion ont été envoyés',
+    '_bx_store_msg_broadcast_no_recipients' => 'Il n\'y a pas encore de clients pour ce produit',
+
+    '_bx_store_admin_delete' => 'Supprimer',
+    '_bx_store_admin_activate' => 'Activer',
+    '_bx_store_admin_add_new_product' => 'Ajouter un nouveau produit',
+    '_bx_store_admin_products' => 'Produits Admin',
+    '_bx_store_admin_settings' => 'Paramètres Admin',
+
+    '_bx_store_form_header_info' => 'Info du produit',
+    '_bx_store_form_header_images' => 'Screenshot du produit',
+    '_bx_store_form_header_videos' => 'Screencasts du produit',
+    '_bx_store_form_header_files' => 'Fichiers du produit',
+    '_bx_store_form_header_privacy' => 'Paramètres de confidentialité',
+    '_bx_store_form_caption_title' => 'Titre',
+    '_bx_store_form_err_title' => 'Veuillez entrer de 3 à 100 caractères',
+    '_bx_store_form_caption_desc' => 'Description',
+    '_bx_store_form_err_desc' => 'Veuillez entrer au moins 20 caractères',
+    '_bx_store_form_err_tags' => 'Veuillez entrer des tags',
+    '_bx_store_form_caption_author_id' => 'Auteur',
+    '_bx_store_form_info_author' => 'Numéro d\'identification du profil de l\'auteur',
+    '_bx_store_form_caption_keyword' => 'Mot de passe',
+    '_bx_store_form_err_keyword' => 'Veuillez entrer de 3 à 100 caractères',
+    '_bx_store_form_caption_category' => 'Catégorie',
+    '_bx_store_form_err_category' => 'La catégorie est invalide',    
+    '_bx_store_form_caption_images_choice' => 'Choisir',
+    '_bx_store_form_info_images_choice' => 'Les images cochées seront supprimées',
+    '_bx_store_form_caption_images_upload' => 'Envoyer',    
+    '_bx_store_form_info_images_upload' => 'L\'image sera placée dans la catégorie "Boutique" automatiquement',
+    '_bx_store_form_caption_videos_choice' => 'Choisir',
+    '_bx_store_form_info_videos_choice' => 'Les vidéos cochées seront supprimées',
+    '_bx_store_form_caption_videos_upload' => 'Envoyer',
+    '_bx_store_form_info_videos_upload' => 'La vidéo sera placée dans la catégorie "Boutique" automatiquement',
+    '_bx_store_form_caption_files_choice' => 'Choisir',
+    '_bx_store_form_info_files_choice' => 'Les fichiers ne peuvent pas être supprimés mais vous pouvez les masquer',
+    '_bx_store_form_caption_files_upload' => 'Envoyer',
+    '_bx_store_form_info_files_upload' => 'Le fichier sera placé dans la catégorie "Boutique" rt sera défini comme prévu automatiquement',
+    '_bx_store_form_caption_file_title' => 'Titre:',
+    '_bx_store_form_caption_file_price' => 'Prix:',
+    '_bx_store_form_caption_file_allow_purcase_to' => 'Autoriser l\'achat à:',
+    '_bx_store_form_caption_thumb_choice' => 'Choisir la vignette',
+    '_bx_store_form_info_thumb_choice' => 'Vous pouvez choisir n\'importe quelle image téléchargée comme vignette du produit',
+    '_bx_store_form_caption_broadcast_title' => 'Titre du message de diffusion',
+    '_bx_store_form_err_broadcast_title' => 'Veuillez entrer de 3 à 100 caractères', 
+    '_bx_store_form_caption_broadcast_message' => 'Message de diffusion',
+    '_bx_store_form_err_broadcast_message' => 'Veuillez entrer au moins 10 caractères',
+
+    '_bx_store_action_store_home' => 'Accueil Boutique',
+    '_bx_store_action_title_edit' => 'Editer',
+    '_bx_store_action_title_delete' => 'Supprimer',
+    '_bx_store_action_title_share' => 'Partager',
+    '_bx_store_action_title_broadcast' => 'Diffuser',
+    '_bx_store_action_add_to_featured' => 'Mettre en vedette',    
+    '_bx_store_action_remove_from_featured' => 'Supprimer de vedette',
+    '_bx_store_action_add_product' => 'Ajouter produit',
+    '_bx_store_action_my_products' => 'Mes produits',
+
+    '_bx_store_privacy_view_product' => 'Voir le produit',
+    '_bx_store_privacy_edit_product' => 'Editer le produit',
+    '_bx_store_privacy_post_in_forum_product' => 'Publier dans Forum',
+    '_bx_store_privacy_purchase_file' => 'Acheter le produit',    
+    '_bx_store_privacy_customers_only' => 'Seulement les clients',
+
+    '_mma_store_view_product' => 'voir produit', 
+    '_mma_store_browse' => 'parcourir la boutique', 
+    '_mma_store_search' => 'rechercher la boutique', 
+    '_mma_store_add_product' => 'ajouter un produit de la boutique', 
+    '_mma_store_product_comments_delete_and_edit' => 'supprimer et éditer les commentaires du produit de la boutique', 
+    '_mma_store_edit_any_product' => 'éditer n\'importe quel produit de la boutique', 
+    '_mma_store_delete_any_product' => 'supprimer n\'importe quel produit de la boutique', 
+    '_mma_store_mark_as_featured' => 'marque de la boutique en vedette', 
+    '_mma_store_approve_product' => 'approuver le produit de la boutique', 
+    '_mma_store_broadcast_message' => 'diffuser le message de la boutique',
+);
+
+?>
